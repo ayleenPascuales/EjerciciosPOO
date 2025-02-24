@@ -28,7 +28,7 @@ class Prueba9 {
         Moto moto = new Moto("Yamaha", 600);
         moto.mostrarDatos();
 
-        Vehiculo vehiculo = new Vehiculo("Coche", "Toyota");
+        // Vehiculo vehiculo = new Vehiculo("Coche", "Toyota");
         // System.out.println(vehiculo.tipo);
         // System.out.println(vehiculo.marca);
     }
